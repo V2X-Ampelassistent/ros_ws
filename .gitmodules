@@ -1,0 +1,12 @@
+[submodule "src/v2x_cohdatoros"]
+	path = src/v2x_cohdatoros
+	url = https://github.com/V2X-Ampelassistent/v2x_cohdatoros.git
+[submodule "src/v2x_cohdainterfaces"]
+	path = src/v2x_cohdainterfaces
+	url = https://github.com/V2X-Ampelassistent/v2x_cohdainterfaces.git
+[submodule "src/v2x_frontend"]
+	path = src/v2x_frontend
+	url = https://github.com/V2X-Ampelassistent/v2x_frontend.git
+[submodule "src/v2x_ampellogik"]
+	path = src/v2x_ampellogik
+	url = https://github.com/V2X-Ampelassistent/v2x_ampellogik.git
