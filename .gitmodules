@@ -10,3 +10,12 @@
 [submodule "src/v2x_ampellogik"]
 	path = src/v2x_ampellogik
 	url = https://github.com/V2X-Ampelassistent/v2x_ampellogik.git
+[submodule "src/v2x_services"]
+	path = src/v2x_services
+	url = https://github.com/V2X-Ampelassistent/v2x_services.git
+[submodule "src/v2x_trafficlightassist"]
+	path = src/v2x_trafficlightassist
+	url = https://github.com/V2X-Ampelassistent/v2x_trafficlightassist.git
+[submodule "src/v2x_servicedummy"]
+	path = src/v2x_servicedummy
+	url = https://github.com/V2X-Ampelassistent/v2x_servicedummy.git
