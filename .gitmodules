@@ -19,3 +19,6 @@
 [submodule "src/v2x_servicedummy"]
 	path = src/v2x_servicedummy
 	url = https://github.com/V2X-Ampelassistent/v2x_servicedummy.git
+[submodule "src/can_bridge"]
+	path = src/can_bridge
+	url = https://github.com/V2X-Ampelassistent/can_bridge.git

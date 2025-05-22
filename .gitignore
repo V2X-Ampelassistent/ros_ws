@@ -26,6 +26,7 @@ devel_isolated/
 # Ignore generated docs
 *.dox
 *.wikidoc
+rosbag2*
 
 # eclipse stuff
 .project
@@ -54,3 +55,4 @@ CATKIN_IGNORE
 
 # Other
 .vscode
+*.code-workspace
