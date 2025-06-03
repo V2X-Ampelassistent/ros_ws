@@ -18,8 +18,8 @@ def generate_launch_description():
             ]
         ),
         Node(
-            package='v2x_servicedummy',
-            executable='servicedummynode',
+            package='v2x_frontend',
+            executable='v2x_frontend_server',
         ),
         Node(
             package='v2x_trafficlightassist',
