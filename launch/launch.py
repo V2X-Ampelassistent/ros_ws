@@ -18,6 +18,10 @@ def generate_launch_description():
             ]
         ),
         Node(
+            package='can_bridge',
+            executable='can_bridge_node',
+            ),
+        Node(
             package='v2x_frontend',
             executable='v2x_frontend_server',
         ),
